@@ -1,0 +1,2 @@
+Prefix plugins/FASTAReplace/example
+Plugin FASTAReplace inputfile testfile.fasta outputfile testfile.replaced.fasta
